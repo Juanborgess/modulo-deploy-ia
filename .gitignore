@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Ignorar ambientes virtuais
+.venv/
+# Ignorar arquivos de dependência/cache
+uv.lock
+# IGNORAR ARQUIVOS DE CONFIGURAÇÃO SECRETA
+.env

@@ -1,0 +1,17 @@
+[project]
+name = "modulo-deploy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno>=2.2.6",
+    "chromadb>=1.3.2",
+    "ddgs>=9.7.0",
+    "fastapi>=0.121.0",
+    "openai>=2.7.1",
+    "pypdf>=6.1.3",
+    "sqlalchemy>=2.0.44",
+    "streamlit>=1.51.0",
+    "uvicorn>=0.38.0",
+]
